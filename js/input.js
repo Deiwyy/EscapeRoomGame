@@ -25,7 +25,8 @@ export class InputHandler {
             'x': false,
             'y': false,
             'z': false,
-            ' ': false
+            ' ': false,
+            'escape': false
         };
         window.addEventListener('keydown', (e) => {
             this.keyDown(e);

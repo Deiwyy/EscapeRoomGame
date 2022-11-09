@@ -2,12 +2,12 @@ import {Tools} from "./tools.js";
 import {Rect} from './rect.js'
 
 export class Player {
-    constructor(game, room) {
+    constructor(game, room, x, y) {
         this.room = room; 
         this.game = game;
         this.walkSpeed = 3;
-        this.x = 150;
-        this.y = 150; // Grootte en coordinaten
+        this.x = x;
+        this.y = y; // Grootte en coordinaten
         this.w = 10;
         this.h = 20;
     }
