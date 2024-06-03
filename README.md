@@ -16,9 +16,7 @@ There's still some shit I have to do.
 * Add a proper timer
 * fix the fucking freezing events issue when using browsers popups
 * try to fix the blurry pixel art 
-* add proper comments so the teachers don't shit themselves
 * fix the spritesheet (bitch is offset by some pixels here and there)
 * find a good way of adding sound into the game
 * yk fuck it just make a whole ass sound manager 
-* release the children from my basement
-* 
+* ~release the children from my basement~
